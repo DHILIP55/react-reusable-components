@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+/* Reset */
+* {
+
+
+  box-sizing: border-box;
+}
+
+/* Root */
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* Body */
+body {
+  font-family: Inter, Arial, Helvetica, sans-serif;
+  background-color: #ffffff;
+  color: #111827;
+  overflow-x: hidden;
+}

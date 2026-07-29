@@ -1,0 +1,11 @@
+
+
+ npm create vite@latest my-app   
+ npm install tailwindcss @tailwindcss/vite
+ npm install react-router-dom
+ npm install framer-motion
+
+
+
+create a file in a component folder and name it as "GradientText.tsx" and add the following code in it.
+and import what you need in the file and use it the reuseable component of gradient text.
