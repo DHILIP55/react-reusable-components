@@ -1,4 +1,4 @@
-
+requeirements packages to install for the project are listed below.:
 
  npm create vite@latest my-app   
  npm install tailwindcss @tailwindcss/vite
